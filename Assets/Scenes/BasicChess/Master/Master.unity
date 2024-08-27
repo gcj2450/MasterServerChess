@@ -687,7 +687,7 @@ MonoBehaviour:
   userPasswordMinChars: 8
   useEmailConfirmation: 1
   enableGuestLogin: 1
-  guestPrefix: '#'
+  guestPrefix: Guest
   saveGuestInfo: 1
   tokenExpiresInDays: 60
   getPeerDataPermissionsLevel: 0
