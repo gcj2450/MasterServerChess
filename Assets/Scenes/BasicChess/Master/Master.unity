@@ -903,9 +903,9 @@ MonoBehaviour:
   spawnWebSocketServers: 0
   region: 
   killProcessesWhenStop: 1
-  autoStartInEditor: 1
+  autoStartInEditor: 0
   overrideExePathInEditor: 1
-  exePathFromEditor: D:\GitHub\NodeJS\barebones-masterserver\MasterServerChess\Builds\Chess\MST-Chess.exe
+  exePathFromEditor: E:\GitHub\MasterServerChess\Builds\Chess\MST-Chess.exe
   OnSpawnerStartedEvent:
     m_PersistentCalls:
       m_Calls: []

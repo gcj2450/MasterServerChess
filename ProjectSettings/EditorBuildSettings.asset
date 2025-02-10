@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Scenes/Client/Client.unity
     guid: 98b370a86e706f549b45cc15330595a2
-  - enabled: 1
+  - enabled: 0
     path: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Scenes/Master/Master.unity
     guid: aaf7e01ab12c1544082690f6f12c02a5
   - enabled: 0
@@ -26,7 +26,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Tutorial/RafaelTutorialGameServerChess.unity
     guid: 5895e48a6f727404e9a6ee1f8fa4ff52
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BasicChess/Master/Master.unity
     guid: ae1b06fde64de0d469a7a537d97c85de
   - enabled: 1
